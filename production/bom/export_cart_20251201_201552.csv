@@ -1,0 +1,34 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C42372555,HX JN1.27-2x5 TP H4.9,hanxia,"SMD,P=1.27mm",34,"1.27mm -40℃~+105℃ 1A Gold Copper 500V 2x5P 5 2 IDC Header 1.27mm Surface Mount,Vertical SMD,P=1.27mm Free Hanging, Panel Mount RoHS",yes,10,5,5,0.2072,2.07,https://www.lcsc.com/product-detail/C42372555.html
+2,C41376037,HX PZ1.27-2x5P TP,hanxia,"SMD,P=1.27mm",34,"10P 2x5P Gold Brass -40℃~+105℃ Pin Header Black 1.27mm 1mm 4mm 500V 2 1A Surface Mount,Vertical 1.27mm SMD,P=1.27mm Headers, Male Pins RoHS",yes,10,5,5,0.0831,0.83,https://www.lcsc.com/product-detail/C41376037.html
+3,C730123,STM32G474CBT6,ST,LQFP-48(7x7),24,ARM Cortex-M4F 170MHz 38 LQFP-48(7x7) Microcontrollers RoHS,yes,10,1,1,3.4997,35.00,https://www.lcsc.com/product-detail/C730123.html
+4,C14663,CC0603KRX7R9BB104,YAGEO,0603,1,50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS,yes,200,100,100,0.0025,0.50,https://www.lcsc.com/product-detail/C14663.html
+5,C89632,CL31B106KBHNNNE,Samsung Electro-Mechanics,1206,2,50V 10uF X7R ±10% 1206 Ceramic Capacitors RoHS,yes,60,10,10,0.0557,3.34,https://www.lcsc.com/product-detail/C89632.html
+6,C100042,CC0603KRX7R9BB103,YAGEO,0603,3,50V 10nF X7R ±10% 0603 Ceramic Capacitors RoHS,yes,100,100,100,0.0022,0.22,https://www.lcsc.com/product-detail/C100042.html
+7,C38523,CL10C120JB8NNNC,Samsung Electro-Mechanics,0603,4,50V 12pF C0G ±5% 0603 Ceramic Capacitors RoHS,yes,100,100,100,0.0049,0.49,https://www.lcsc.com/product-detail/C38523.html
+8,C77083,GRM21BR71H105KA12L,muRata,0805,5,50V 1uF X7R ±10% 0805 Ceramic Capacitors RoHS,yes,20,20,20,0.0366,0.73,https://www.lcsc.com/product-detail/C77083.html
+9,C49678,CC0805KRX7R9BB104,YAGEO,0805,6,50V 100nF X7R ±10% 0805 Ceramic Capacitors RoHS,yes,100,100,100,0.0045,0.45,https://www.lcsc.com/product-detail/C49678.html
+10,C319148,U262-161N-4BVC11,XKB Connection,SMD,,"1 16P -40℃~+85℃ Type-C SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,15,5,5,0.3204,4.81,https://www.lcsc.com/product-detail/C319148.html
+11,C98220,RC0603FR-0710KL,YAGEO,0603,7,100mW 10kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0011,0.11,https://www.lcsc.com/product-detail/C98220.html
+12,C14675,RC0603FR-07100KL,YAGEO,0603,8,100mW 100kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0010,0.10,https://www.lcsc.com/product-detail/C14675.html
+13,C22787,0603WAF1200T5E,UNI-ROYAL,0603,9,100mW 120Ω 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C22787.html
+14,C2907044,FRC0603F5101TS,FOJAN,0603,10,100mW 5.1kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C2907044.html
+15,C25190,0603WAF270JT5E,UNI-ROYAL,0603,11,100mW 27Ω 75V ±200ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C25190.html
+16,C22975,0603WAF2001T5E,UNI-ROYAL,0603,12,100mW 2kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0011,0.11,https://www.lcsc.com/product-detail/C22975.html
+17,C2999457,FRC0603F5492TS,FOJAN,0603,13,100mW 54.9kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C2999457.html
+18,C710507,BLM21BD471SN1D,muRata,0805,14,350mΩ ±25% 470Ω@100MHz 0805 Ferrite Beads and Chips RoHS,yes,20,10,10,0.0571,1.14,https://www.lcsc.com/product-detail/C710507.html
+19,C167971,FNR5040S220MT,cjiang,"SMD,5x5mm",15,"22uH Magnetic Shielded Inductor 1.8A SMD,5x5mm Fixed Inductors RoHS",yes,20,10,10,0.0933,1.87,https://www.lcsc.com/product-detail/C167971.html
+20,C965555,WS2812B-2020,Worldsemi,"SMD,2.2x2mm",16,"SMD,2.2x2mm LED Addressable, Specialty RoHS",yes,50,5,5,0.0658,3.29,https://www.lcsc.com/product-detail/C965555.html
+21,C284104,NUP2105L,DOWO,SOT-23,17,8A 420W@8/20us 43V 26.7V Bidirectional 24V SOT-23 TVS Diodes RoHS,yes,30,10,10,0.0478,1.43,https://www.lcsc.com/product-detail/C284104.html
+22,C19077449,BZT52C16S,R+O,SOD-323,18,Independent 200mW 15.3V~17.1V 16V SOD-323 Single Zener Diodes RoHS,yes,50,50,50,0.0155,0.78,https://www.lcsc.com/product-detail/C19077449.html
+23,C47546,"BAT54S,215",Nexperia,SOT-23,19,600mA 1 Pair Series Connection 30V 800mV@100mA 200mA SOT-23 Single Diodes RoHS,yes,30,5,5,0.0883,2.65,https://www.lcsc.com/product-detail/C47546.html
+24,C118873,1N4148WS,onsemi,SOD-323,20,4ns 75V Independent 1V@10mA 150mA SOD-323 Single Diodes RoHS,yes,20,20,20,0.0378,0.76,https://www.lcsc.com/product-detail/C118873.html
+25,C111580,SS14FL,Shikues,SMAF,21,40A Independent 40V 450mV@1A 1A SMAF Single Diodes RoHS,yes,20,20,20,0.0409,0.82,https://www.lcsc.com/product-detail/C111580.html
+26,C38695,TJA1051T/3/1J,NXP,SOIC-8-150mil,22,"CAN FD Transceiver 110mA 4.5V~5.5V SOIC-8-150mil Drivers, Receivers, Transceivers RoHS",yes,30,5,5,0.5013,15.04,https://www.lcsc.com/product-detail/C38695.html
+27,C95414,LP2985-33DBVR,TI,SOT-23-5,23,"45dB@(1kHz) Positive Fixed 3.3V SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,10,5,5,0.1110,1.11,https://www.lcsc.com/product-detail/C95414.html
+28,C290195,LMR16006YDDCR,TI,SOT-23-6,25,2.1MHz Buck Adjustable 1 SOT-23-6 Voltage Regulators - DC DC Switching Regulators RoHS,yes,10,1,1,0.3978,3.98,https://www.lcsc.com/product-detail/C290195.html
+29,C7519,USBLC6-2SC6,ST,SOT-23-6L,26,5A 17V 6V Unidirectional 5.25V SOT-23-6L TVS Diodes RoHS,yes,10,5,5,0.1035,1.04,https://www.lcsc.com/product-detail/C7519.html
+30,C2682775,X32258MOB4SI,YXC Crystal Oscillators,SMD3225-4P,27,Crystal Oscillator 12pF SMD3225-4P Crystals RoHS,yes,10,5,5,0.1583,1.58,https://www.lcsc.com/product-detail/C2682775.html
+31,C115357,SKRKAEE020,ALPSALPINE,"SMD,3.9x2.9mm",28,"12V 2.9mm Round Button 3.9mm SPST 50mA SMD,3.9x2.9mm Tactile Switches RoHS",yes,10,5,5,0.1277,1.28,https://www.lcsc.com/product-detail/C115357.html
+32,C85840,BLM21PG221SN1D,muRata,0805,,45mΩ ±25% 220Ω@100MHz 0805 Ferrite Beads and Chips RoHS,yes,50,50,50,0.0162,0.81,https://www.lcsc.com/product-detail/C85840.html
+33,C347476,AO3401A,UMW,SOT-23,,"30V 4.2A 50mΩ@10V 1.4W 1 P-Channel SOT-23 Single FETs, MOSFETs RoHS",yes,20,20,20,0.0310,0.62,https://www.lcsc.com/product-detail/C347476.html
