@@ -7065,7 +7065,7 @@
 		(path "/91dfa055-29e8-4d81-abea-456901e146c8")
 		(sheetname "/")
 		(sheetfile "canfilter_g4.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.38 1.27)
 			(end 1.38 1.38)
@@ -11958,7 +11958,7 @@
 		(path "/6fb51f99-c5a9-4f3c-aaa7-9d5656242495")
 		(sheetname "/")
 		(sheetfile "canfilter_g4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.38 1.27)
 			(end 1.38 3.92)
@@ -12426,7 +12426,7 @@
 		(path "/6b7297ed-71e8-4d28-9386-69f995f026df")
 		(sheetname "/")
 		(sheetfile "canfilter_g4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -13998,7 +13998,7 @@
 		(path "/fb8a3af4-6b95-4b5c-b04e-73cb97bc3eb2")
 		(sheetname "/")
 		(sheetfile "canfilter_g4.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.38 1.27)
 			(end 1.38 1.38)
@@ -19105,7 +19105,7 @@
 		(path "/ec694d06-cb30-43ac-bbf7-98ef6f4cd394")
 		(sheetname "/")
 		(sheetfile "canfilter_g4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.38 1.27)
 			(end 1.38 3.92)
@@ -22459,8 +22459,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 132.1 89.65)
-		(end 134.75 90.9775)
+		(start 127.6625 81.93625)
+		(end 129.6375 83.26375)
 		(stroke
 			(width 0.1)
 			(type solid)
