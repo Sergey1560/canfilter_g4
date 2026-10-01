@@ -677,7 +677,7 @@
       {
         "filename": "canfilter_g4.kicad_sch",
         "name": "canfilter_g4",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "4f94f0b8-8c11-4faa-81ee-d093b0c859ad"
       }
     ],
     "used_designators": "",
@@ -686,7 +686,7 @@
   "sheets": [
     [
       "4f94f0b8-8c11-4faa-81ee-d093b0c859ad",
-      "Root"
+      "canfilter_g4"
     ],
     [
       "4e71a411-bfd9-4968-b56f-d2d16d38addb",
